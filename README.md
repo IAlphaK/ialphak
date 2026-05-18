@@ -65,12 +65,11 @@ A Transformer-based NLP model for text summarization.
 - Evaluated summaries using **ROUGE metrics**.
 - Built using **Python, PyTorch, and NLP sequence modeling concepts**.
 
-### **Sentiment Analysis** 💬  
-An NLP project for classifying text sentiment and extracting opinion-based insights from textual data.
+### **Urdu Sentiment Analysis Tool** 💬  
+An NLP pipeline for analyzing Urdu social media text and classifying sentiment/sarcasm patterns.
 
-- Built a sentiment classification workflow for analyzing positive, negative, and neutral text patterns.
-- Applied NLP preprocessing techniques such as text cleaning, tokenization, vectorization, and model evaluation.
-- Strengthened practical understanding of text classification, feature extraction, and machine learning-based language understanding.
+- Built a Python-based preprocessing and classification workflow using Urdu text cleaning, stopword handling, normalization, TF-IDF, Word2Vec, and N-gram analysis.
+- Trained a Logistic Regression model achieving approximately **75% accuracy**.
 
 ### **LSTM English-to-Urdu Translation System** 🌍  
 A machine translation system for English-to-Urdu translation.
