@@ -88,7 +88,6 @@ A decentralized funding platform for project-based fundraising.
 
 - Designed a blockchain-based application for project funding using stablecoins and a custom token, **SKT**.
 - Built smart-contract-driven funding logic to support transparent contribution and project financing workflows.
-- Repository: [github.com/0xDenzi/SkyRocket-DApp](https://github.com/0xDenzi/SkyRocket-DApp)
 
 ---
 
